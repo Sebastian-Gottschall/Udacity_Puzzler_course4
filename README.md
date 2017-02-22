@@ -5,9 +5,9 @@ start the project. replay the sequence of the orbs and finish the game.
 
 ## Used Software
 
-Unity 5.3.f03
-Google SDK 1.03
-Udacity Puzzler Starter set
+* Unity 5.3.f03
+* Google SDK 1.03
+* Udacity Puzzler Starter set
 
 ## Installation
 
